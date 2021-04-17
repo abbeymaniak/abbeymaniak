@@ -3,6 +3,7 @@
 ![Software Design and Development]
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/abbeymanic)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCITVRT8zoM4VKCfetBaO0UA?style=plastic)
 
 I'm a Software Developer with a passion for IT technologies with problem solving skills, ability to satisfy user requirements combined with excellent communication skills, I have worked on several web projects. looking forward to add more to my experience and expertise, i'm also open to learning, fast learner and ready to deliver Top notch.
 
