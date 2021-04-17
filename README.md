@@ -13,11 +13,13 @@ I'm a Software Developer with a passion for IT technologies with problem solving
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php logo" width="75" height="75" /><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="php logo" width="75" height="75" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="75px" height="75px"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="75px" height="75px"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="75px" height="75px"><img src="https://github.com/devicons/devicon/blob/master/icons/cakephp/cakephp-original-wordmark.svg" width="75px" height="75px"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="75px" height="75px"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="75px" height="75px"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="75px" height="75px"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="75px" height="75px"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" width="75px" height="75px"><img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" width="75px" height="75px">
 <img src="https://cdn.worldvectorlogo.com/logos/amazon-lightsail.svg" width="75px" height="75px">
 
-Skills: PHP / WORDPRESS / JS / HTML / CSS / AWS LIGHTSAIL / YARN /
+---
 
 - 🔭 I’m currently working on Social media website  
 - 💬 Ask me about PHP 
 - ⚡ Fun fact: I'm a Chelsea Fan 
+- 🏫 Currently Learning 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="35px" height="35px">
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abbeymaniak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/abbeymaniak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abiodun-paul-ogunnaike-355bb185/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/abbeymanic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCITVRT8zoM4VKCfetBaO0UA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://primastech.com)  
