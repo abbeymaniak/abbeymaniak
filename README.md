@@ -15,9 +15,10 @@ I'm a Software Developer with a passion for IT technologies with problem solving
 
 ---
 
-- 🔭 I’m currently working on Social media website  
-- 💬 Ask me about PHP 
-- ⚡ Fun fact: I'm a Chelsea Fan 
+- 🔭 I’m currently working on PHP Web Application 🌎
+- 💬 Ask me about PHP 🐘
+- ⚡ Fun fact: I'm a Chelsea Fan <img src="https://cdn.worldvectorlogo.com/logos/chelsea-fc-2.svg" width="75px" height="75px">
+- 💖 I love Coding 👨‍💻 and Football⚽
 - 🏫 Currently Learning<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="35px" height="35px">
 
 
