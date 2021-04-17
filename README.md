@@ -10,7 +10,8 @@ I'm a Software Developer with a passion for IT technologies with problem solving
 ---
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php logo" width="75" height="75">
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="php logo" width="75" height="75">
 
 Skills: PHP / WORDPRESS / JS / HTML / CSS / AWS LIGHTSAIL / YARN /
 
