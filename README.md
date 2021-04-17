@@ -7,6 +7,9 @@
 
 I'm a Software Developer with a passion for IT technologies with problem solving skills, ability to satisfy user requirements combined with excellent communication skills, I have worked on several web projects. looking forward to add more to my experience and expertise, i'm also open to learning, fast learner and ready to deliver Top notch.
 
+---
+too
+
 Skills: PHP / WORDPRESS / JS / HTML / CSS / AWS LIGHTSAIL / YARN /
 
 - 🔭 I’m currently working on Social media website  
